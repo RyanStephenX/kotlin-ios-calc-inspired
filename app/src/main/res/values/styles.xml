@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="button_style" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">#FFFFFF</item> <!-- White text -->
+        <item name="android:background">@drawable/roundstyle</item>
+        <item name="android:textSize">24sp</item>
+        <item name="fontFamily">@font/helvetica_font_family</item>
+        <item name="android:minHeight">90dp</item>
+        <item name="android:minWidth">90dp</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+</resources>
